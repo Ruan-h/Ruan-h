@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Ruan! 👋
 
-<!--
-**Ruan-h/Ruan-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação da UFC (Universidade Federal do Ceará). Tenho foco em desenvolvimento **Backend** e criação de sistema, além de desenvolver jogos na Unity.
 
-Here are some ideas to get you started:
+Atualmente, estou me aprofundando em arquitetura de software (Clean Architecture, DDD).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+* **Backend & Linguagens:** C#, .NET 8.
+* **Banco de Dados:** PostgreSQL, Entity Framework Core.
+* **Game Dev:** Unity 6 (C#).
+* **Outros:** Git, Modelagem UML (PlantUML).
+
+---
+
+### 🏆 Projetos em Destaque
+
+#### 💧 WaterDelivery API (https://github.com/Ruan-h/water-delivery-api)
+Uma API desenvolvida em **ASP.NET Core** para gestão de entregas de garrafões de água.
+* **Destaques:** Clean Architecture, Autenticação JWT, senhas com hash (BCrypt) e banco PostgreSQL.
+
+#### 🎮 Noir Platformer - Em Desenvolvimento (https://github.com/Ruan-h/Noir-Platformer-Unity6)
+Um jogo de plataforma 2D desenvolvido na **Unity 6**. 
+* **Destaques:** sistema de combate *one-hit kill* e gerenciamento complexo de estados (respawn dinâmico).
+
+---
+
+### 📫 Como me encontrar:
+* **E-mail:** ruandavidoliveira00@alu.ufc.br
