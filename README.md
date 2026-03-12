@@ -1,11 +1,11 @@
 # Olá, eu sou o Ruan! 👋
 
-Sou estudante de Ciência da Computação da UFC (Universidade Federal do Ceará). Tenho foco em desenvolvimento **Backend** e criação de sistema, além de desenvolver jogos na Unity.
+Sou estudante de Ciência da Computação da UFC (Universidade Federal do Ceará). Tenho foco em desenvolvimento **Backend** e criação de sistemas, além de desenvolver jogos na Unity.
 
 Atualmente, estou me aprofundando em arquitetura de software (Clean Architecture, DDD).
 
 ### 🚀 Tecnologias e Ferramentas
-* **Backend & Linguagens:** C#, .NET 8.
+* **Backend & Linguagens:** C#, .NET 8, Python.
 * **Banco de Dados:** PostgreSQL, Entity Framework Core.
 * **Game Dev:** Unity 6 (C#).
 * **Outros:** Git, Modelagem UML (PlantUML).
@@ -21,6 +21,18 @@ Uma API desenvolvida em **ASP.NET Core** para gestão de entregas de garrafões 
 #### 🎮 Noir Platformer - Em Desenvolvimento (https://github.com/Ruan-h/Noir-Platformer-Unity6)
 Um jogo de plataforma 2D desenvolvido na **Unity 6**. 
 * **Destaques:** sistema de combate *one-hit kill* e gerenciamento complexo de estados (respawn dinâmico).
+
+---
+
+### 🎓 Projetos Acadêmicos (Ciência da Computação - UFC)
+
+#### 🖥️ CG Ray Tracing Fundamentals (https://github.com/Ruan-h/CG-Ray-Tracing-Fundamentals)
+Motor de renderização 3D (Ray Caster) desenvolvido em **Python** para a disciplina de Computação Gráfica.
+* **Destaques:** Implementação do zero de primitivas geométricas, transformações 3D matemáticas, cálculos de iluminação/sombras e múltiplas projeções de câmera.
+
+#### 🗄️ Timestamp-Based Scheduler (https://github.com/Ruan-h/Timestamp-Based-Scheduler)
+Simulador de controle de concorrência para Sistemas de Bancos de Dados desenvolvido em **C# (.NET 8)**.
+* **Destaques:** Implementação do algoritmo de escalonamento baseado em timestamp para garantir a serialização de transações concorrentes.
 
 ---
 
