@@ -6,6 +6,7 @@ Atualmente, estou me aprofundando em arquitetura de software (Clean Architecture
 
 ### 🚀 Tecnologias e Ferramentas
 * **Backend & Linguagens:** C#, .NET 8, Python.
+* **Dados & Estatística:** Pandas, NumPy, SciPy, Seaborn.
 * **Banco de Dados:** PostgreSQL, Entity Framework Core.
 * **Game Dev:** Unity 6 (C#).
 * **Outros:** Git, Modelagem UML (PlantUML).
@@ -13,6 +14,10 @@ Atualmente, estou me aprofundando em arquitetura de software (Clean Architecture
 ---
 
 ### 🏆 Projetos em Destaque
+
+#### 🏀 NBA Forecaster (https://github.com/Ruan-h/NBA_Forecaster)
+Projeto prático de **Análise de Dados** focado no processamento e análise preditiva do desempenho de jogadores da NBA (com foco no 1º Quarto dos jogos).
+* **Destaques:** Construção de pipeline ETL (texto para CSV estruturado), Estatística Inferencial (Distribuição Normal, T de Student e Intervalos de Confiança) e visualização de dados avançada.
 
 #### 💧 WaterDelivery API (https://github.com/Ruan-h/water-delivery-api)
 Uma API desenvolvida em **ASP.NET Core** para gestão de entregas de garrafões de água.
