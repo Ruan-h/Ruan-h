@@ -43,4 +43,4 @@ Simulador de controle de concorrência para Sistemas de Bancos de Dados desenvol
 ---
 
 ### 📫 Como me encontrar:
-* **E-mail:** ruandavidoliveira00@alu.ufc.br
+* **E-mail:** ruandavidoliveira004@gmail.com
