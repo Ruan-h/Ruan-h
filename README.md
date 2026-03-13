@@ -15,13 +15,14 @@ Atualmente, estou me aprofundando em arquitetura de software (Clean Architecture
 
 ### 🏆 Projetos em Destaque
 
-#### 🏀 NBA Forecaster (https://github.com/Ruan-h/NBA_Forecaster)
-Projeto prático de **Análise de Dados** focado no processamento e análise preditiva do desempenho de jogadores da NBA (com foco no 1º Quarto dos jogos).
-* **Destaques:** Construção de pipeline ETL (texto para CSV estruturado), Estatística Inferencial (Distribuição Normal, T de Student e Intervalos de Confiança) e visualização de dados avançada.
 
 #### 💧 WaterDelivery API (https://github.com/Ruan-h/water-delivery-api)
 Uma API desenvolvida em **ASP.NET Core** para gestão de entregas de garrafões de água.
 * **Destaques:** Clean Architecture, Autenticação JWT, senhas com hash (BCrypt) e banco PostgreSQL.
+
+#### 🏀 NBA Forecaster (https://github.com/Ruan-h/NBA_Forecaster)
+Projeto prático de **Análise de Dados** focado no processamento e análise preditiva do desempenho de jogador da NBA (com foco no 1º Quarto dos jogos).
+* **Destaques:** Construção de pipeline ETL (texto para CSV estruturado), Estatística Inferencial (Distribuição Normal, T de Student e Intervalos de Confiança) e visualização de dados avançada.
 
 #### 🎮 Noir Platformer - Em Desenvolvimento (https://github.com/Ruan-h/Noir-Platformer-Unity6)
 Um jogo de plataforma 2D desenvolvido na **Unity 6**. 
