@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação da UFC (Universidade Federal do Ceará). Tenho foco em desenvolvimento **Backend** e criação de sistemas, além de desenvolver jogos na Unity.
 
-Atualmente, estou me aprofundando em arquitetura de software (Clean Architecture, DDD).
+Tendo aplicado Clean Architecture e DDD na construção estrutural de APIs, meu foco atual é aprofundar esses padrões arquiteturais para cenários complexos de alta concorrência e sistemas de missão crítica.
 
 ### 🚀 Tecnologias e Ferramentas
 * **Backend & Linguagens:** C#, .NET 8, Python.
